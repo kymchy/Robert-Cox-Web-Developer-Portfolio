@@ -1,0 +1,155 @@
+
+}
+@font-face {
+    font-family:"pineapple";
+    src: url("pineapple.ttf") 
+}
+
+
+
+pre {
+ white-space: pre-wrap;       /* css-3 */
+ white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ white-space: -pre-wrap;      /* Opera 4-6 */
+ white-space: -o-pre-wrap;    /* Opera 7 */
+ word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+.tops
+{
+ visibility: hidden;   
+}
+
+.dots
+{
+ width: 3%;   
+}
+
+.bots
+{
+  width: 20%;  
+}
+
+.full
+{
+ width: 100%;
+ height: auto;
+ background-image: url(img/beach.jpg);
+background-size:cover;
+}
+
+.bg
+{
+  background-image: url(bg.jpg);  
+}
+
+
+
+.pie
+{
+   font-family: myFirstFont;
+   src: url(pinapple.ttf);
+   font-weight: bold;
+}  
+
+}
+
+.full
+{
+ width: 100%;
+    background-size:cover;
+    text-align: center;
+    margin: auto;
+    
+}
+
+
+.firstcontainer{
+    min-height:5%;
+    max-height: 10%;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}
+
+
+
+.bio
+{
+ min-height:755px;
+    max-height: 1000px;
+    text-align: center;
+    margin: auto;
+    
+}
+
+{
+    position:fixed; 
+    border:solid 1px #c1c1c1; 
+    width: 
+}
+
+
+.bioinfo
+{
+    min-height: 755px;
+    width: 50%;  
+    margin: auto;
+}
+
+.bioinfo2
+{
+    min-height: 150px;
+    width: 50%;  
+    margin: auto;
+}
+
+.sitephoto
+{
+ display: block;
+  max-width: 350px;
+    min-width: 50px;
+    max-height: 350px;
+    min-height: 50px;
+  margin: 0 auto 30px;
+  border-radius: 60%;
+}
+
+
+
+.dots
+{
+ width: 100px;   
+}
+
+.bio2
+{
+
+height: 920px;
+width: 60%;
+    text-align: center;
+    margin: auto;
+}
+
+.bio3
+{
+
+height: 900px;
+width: 60%;
+    text-align: center;
+    margin: auto;   
+}
+
+.contact
+{
+   
+    height: 25%;
+    width: 100%;
+    text-align: center;
+}
+
+header{
+ display: inline-block;
+    text-align: center;
+ 
+}
