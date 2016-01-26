@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "Robert Cox",
+    "label": "Programmer",
+    "picture": "",
+    "email": "robertcox100@gmail.com",
+    "phone": "+447710258357",
+    "website": "https://github.com/kymchy/Robert-Cox-Web-Developer-Portfolio",
+    "summary": "I am a productive, focussed and hard working person that is good at working independently and meeting set goals. My willingness and drive to learn and get better would give me the ability to contribute a great amount to any Web Development company/sector that is willing to give me an opportunity. ",
+    "location": {
+      "address": "18 wynter street",
+      "postalCode": "sw112tz",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "London"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Robert Cox",
+        "url": "https://twitter.com/kymchy_"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "website": "http://coderdojo.com/",
+      "startDate": "01/09/2014",
+      "endDate": "01/06/2015",
+      "summary": "Global movement of free coding clubs for secondary school kids.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Middlesex",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "01/09/2011",
+      "endDate": "01/05/2014",
+      "gpa": "2:1",
+      "courses": [
+        "Basic SQL",
+        "Java Introduction",
+        "UML",
+        "Web Development",
+        "PHP Introduction",
+        "Game Development"
+      ]
+    },
+    {
+      "institution": "South Bank",
+      "area": "Information Technology",
+      "studyType": "Master",
+      "startDate": "01/09/2014",
+      "endDate": "31/12/2015",
+      "gpa": "2:1",
+      "courses": [
+        "Business",
+        "SQL",
+        "Web Development",
+        "Database Analysis",
+        "Cloud Computing"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Junior/Graduate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Basic Javascript",
+        "Basic PHP",
+        "Basic MySQL(MongoDB)",
+        "BasicNode.js"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+        "Sports",
+        "DJing",
+        "Web & Design Conferences",
+        "I love to Travel",
+        "Learning about new cultures",
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Jobey Bell",
+      "reference": "it is a pleasure of mine to represent Robert as a referee as he did an outstanding job here at codedojo and I know he would be a fantastic and well thought of choice when it comes to any company hiring him. "
+    },
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
+}
