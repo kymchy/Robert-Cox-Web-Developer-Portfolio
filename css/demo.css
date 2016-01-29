@@ -16,13 +16,14 @@
 body {
 	background: #fff;
 	color: #383a3c;
+    height: 6000;
 	font-weight: 400;
 	font-size: 1em;
 	font-family: 'Raleway', Calibri, Arial, sans-serif;
 }
 
 
-
+/* Nav */
 a:hover, a:visited, a:link, a:active
 {
   
@@ -45,19 +46,7 @@ li
   
 }
 
-.dots
-{
- width: 10%;   
-}
-
-.title
-{
- width: 100%; 
-    text-align: center;
-margin: auto;
-font-size: 350%;
-}
-
+/* Nav Styles*/
 a {
 	 padding: 3px;
     color: #FFFFFF;
@@ -68,6 +57,18 @@ a {
 a:hover, a:focus {
 	color: chocolate;
 }
+
+
+/* Main title */
+.title
+{
+ width: 100%; 
+    text-align: center;
+margin: auto;
+font-size: 350%;
+}
+
+
 
 section {
 	padding: 1em;
@@ -80,15 +81,17 @@ p.ref {
 }
 
 
-
+/* First page content */
 .inner
 {
   height: 50%;
-    width: 80%;
+    width: 60%;
     margin: auto;
     text-align: center;
     
 }
+
+/* My Photo */
 .profile-photo
 {
  display: block;
@@ -100,12 +103,14 @@ p.ref {
   border-radius: 30%;
 }
 
+/* Social Media Icon */
 .social-icon
 {
  width: 15%;  
  height: 20%;
 }
 
+/* portfolio content */
 .bioport
 {
     width: 66%;
@@ -117,6 +122,7 @@ p.ref {
       border-radius: 20%;
 }
 
+/* protfolio */
 .portfolio
 {
   height: 900px;
@@ -138,7 +144,7 @@ p.ref {
     background-color: black; 
 }
 
-
+/* Website Previews */
 .show
 {
     text-align: center;
@@ -149,32 +155,30 @@ p.ref {
     background-size: contain
 }
 
-.skills
-{
- text-align: center;
-    margin: auto;
-    width: 76%;
-    height: 100%;
-    border-radius: 32%;
-    background-image: url(demo-1-bg.jpg);
-}
 
-.h3
-{
- color:aqua;
-}
-
+/* Skill Div */
 .skill
 {
   background-color: black;
     margin-top: -16px;
-    height: 800px;
+    height: auto;
     color: #f9f1e9;
     width: 100%;
+    padding-bottom: 50px;
 }
 
+.skills
+{
+ text-align: center;
+    margin: auto;
+    width: 60%;
+    height: 100%;
+    border-radius: 10%;
+    background-image: url(demo-1-bg.jpg);
+    padding-bottom: 90px;
+}
 
-
+/* portfolio websites*/
 .sitephoto {
      border-width:50px;
     border-color:rgba(0,0,0,0);
@@ -198,6 +202,7 @@ p.ref {
   border-radius: 60%;
 }
 
+/* Ewok image*/
 .ewok
 {
  display: block;
@@ -205,6 +210,8 @@ p.ref {
   margin: 0 auto 30px;
   border-radius: 20%;
 }
+
+/* portfolio Div*/
 
 .portfolio {
      height: 700px;
@@ -251,6 +258,7 @@ p.ref {
   z-index: 90;
 }
 
+/* Ribbon */
 .ribbon-wrapper-green {
   width: 85px;
   height: 88px;
@@ -312,3 +320,4 @@ p.ref {
 		width: 30%;
 	}
 }
+
