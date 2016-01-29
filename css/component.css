@@ -1,3 +1,5 @@
+/* Interactive Background Styles */
+
 /* Header */
 .large-header {
 	position: relative;
@@ -13,6 +15,7 @@
 	background-image: url('../img/demo-1-bg.jpg');
 }
 
+/* First page content */
 .main-title {
     width: 100%;
 	position: absolute;
@@ -47,6 +50,7 @@
 	
 }
 
+/* Heading styles*/
 .sp
 {
     color:floralwhite;
